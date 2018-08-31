@@ -1,5 +1,0 @@
-E:\蓝鸽-网络研究所\个人工作\代码演练\CeShi\CeShi\bin\Debug\CeShi.exe
-E:\蓝鸽-网络研究所\个人工作\代码演练\CeShi\CeShi\bin\Debug\CeShi.pdb
-E:\蓝鸽-网络研究所\个人工作\代码演练\CeShi\CeShi\obj\Debug\ResolveAssemblyReference.cache
-E:\蓝鸽-网络研究所\个人工作\代码演练\CeShi\CeShi\obj\Debug\CeShi.exe
-E:\蓝鸽-网络研究所\个人工作\代码演练\CeShi\CeShi\obj\Debug\CeShi.pdb
